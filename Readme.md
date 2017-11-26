@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Станислав Бурлаков](https://up.htmlacademy.ru/javascript/11/user/232773).
-* Наставник: `Александр Бренчев`.
+* Наставник: [Александр Бренчев](https://htmlacademy.ru/profile/id59895).
 
 ---
 
